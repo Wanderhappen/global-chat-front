@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/global-chat-front/static/css/main.0e0df7b7.css",
+    "main.js": "/global-chat-front/static/js/main.12cdbed9.js",
+    "index.html": "/global-chat-front/index.html",
+    "main.0e0df7b7.css.map": "/global-chat-front/static/css/main.0e0df7b7.css.map",
+    "main.12cdbed9.js.map": "/global-chat-front/static/js/main.12cdbed9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e0df7b7.css",
+    "static/js/main.12cdbed9.js"
+  ]
+}

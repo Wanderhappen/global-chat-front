@@ -1,0 +1,6 @@
+*,:after,:before{box-sizing:border-box;margin:0;padding:0}body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#1c1d22;color:#fff;font-family:Poppins,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;line-height:1.2;margin:0;min-width:360px}a{color:inherit;text-decoration:none}.MessagesList_scroll__IHqKu::-webkit-scrollbar{width:8px}.MessagesList_scroll__IHqKu::-webkit-scrollbar-track{background:#2c2f33}.MessagesList_scroll__IHqKu::-webkit-scrollbar-thumb{background:#ffffff8f;border-radius:10px}.MessagesList_scroll__IHqKu::-webkit-scrollbar-thumb:hover{background:#8706c2}.Container_container__OlLiH{flex-grow:1;height:100%;overflow:hidden}
+/*	!*padding: 0 15px;*!*/.Container_container__OlLiH,.chat_chat__RnNyv{display:flex;flex-direction:column;margin:0 auto;max-width:760px;width:100%}.chat_chat__RnNyv{align-items:center;flex:1 1;height:100vh;justify-content:center}
+/*	!*flex-direction: column;*!*/
+/*	!*height: 100%;*!*/
+/*	!*justify-content: space-between;*!*/.Layout_layout__gB2xn{align-items:center;display:flex;height:100vh}
+/*# sourceMappingURL=main.0e0df7b7.css.map*/
