@@ -1,0 +1,10 @@
+.container {
+	flex-grow: 1; /* Чат растет по ширине, но ограничен максимальной шириной */
+	max-width: 760px;
+	width: 100%;
+	margin: 0 auto; /* Центровка чата */
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	overflow: hidden;
+}

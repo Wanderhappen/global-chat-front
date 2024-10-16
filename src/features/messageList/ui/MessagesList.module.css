@@ -1,0 +1,18 @@
+/* Стили для полосы прокрутки */
+.scroll::-webkit-scrollbar {
+	width: 8px; /* Ширина полосы прокрутки */
+}
+
+.scroll::-webkit-scrollbar-track {
+	background: #2c2f33; /* Цвет фона полосы прокрутки */
+}
+
+.scroll::-webkit-scrollbar-thumb {
+	background: rgba(255, 255, 255, 0.56); /* Цвет "ползунка" полосы прокрутки */
+	border-radius: 10px; /* Закругление углов ползунка */
+}
+
+/* Добавьте эффект при наведении */
+.scroll::-webkit-scrollbar-thumb:hover {
+	background: #8706c2; /* Цвет ползунка при наведении */
+}

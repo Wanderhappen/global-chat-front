@@ -1,0 +1,13 @@
+.dialogs {
+	background-color: #2f4bdc; /* Цвет фона */
+	color: #FFFFFF; /* Цвет текста */
+	/*width: 100%;*/
+	/*flex-grow: 1;*/
+	max-width: 500px;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+
+/*'#1C1D22'*/
