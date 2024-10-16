@@ -25,6 +25,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/global-chat-front', // Указываем базовый путь
+    // basename: '/global-chat-front', // Указываем базовый путь
   }
 )
