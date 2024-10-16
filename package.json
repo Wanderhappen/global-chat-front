@@ -2,7 +2,7 @@
   "name": "chat1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Wanderhappen.github.io/global-chat-front",
+  "homepage": "https://global-chat-front.onrender.com/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
