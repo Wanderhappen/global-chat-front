@@ -1,5 +1,3 @@
-// import { io, Socket } from 'socket.io-client'
-//
 import axios from 'axios'
 import { io, Socket } from 'socket.io-client'
 
@@ -69,7 +67,7 @@ export const chatApi = {
 
 // Создаем экземпляр Axios
 const instance = axios.create({
-  baseURL: 'http://localhost:3009', // URL твоего бэкенда
+  baseURL: 'https://chat-y607.onrender.com', // URL твоего бэкенда
   withCredentials: true, // Включаем для отправки куки с запросами
 })
 
